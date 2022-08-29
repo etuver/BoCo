@@ -20,4 +20,5 @@ Features:
 - Websockets for instant chat and notifications
 - Give rating to users you interact with
 
-![Patient register](src/main/resources/no/ntnu/eventu/images/PatientRegister.JPG)
+![boco2](screenshot2.png)
+![boco1](screenshot1.png)
